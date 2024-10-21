@@ -1,4 +1,4 @@
-# gladiaadelmarre.github.io
+# Giulia C.
  My Website
 
 This is my personal website hosted on GitHub Pages.
